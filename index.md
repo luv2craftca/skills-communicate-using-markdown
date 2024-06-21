@@ -6,4 +6,5 @@
 ###### Header with 6
 ####### Header with 7
 
-Trying out header formatting
+
+![Image of Yaktocat](https://octodex.github.com/images/yaktocat.png)
